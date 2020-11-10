@@ -9,7 +9,10 @@ public class AppiumTest {
 	public void Nativeappandroid()
 	{
 		System.out.println("Nativeappandroid");
-		
+		System.out.println("Nativeappandroid1");
+		System.out.println("Nativeappandroid2");
+
+
 		}
 
 	@Test
