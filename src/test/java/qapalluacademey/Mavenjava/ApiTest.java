@@ -9,6 +9,7 @@ public void jira()
 {
 	System.out.println("jira");
 	System.out.println("bugzilla");
+	System.out.println("toto");
 
 	}
 
