@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="52" started-at="2020-10-09T06:04:40Z" finished-at="2020-10-09T06:04:40Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="52" started-at="2020-10-09T06:04:40Z" finished-at="2020-10-09T06:04:40Z">
+      <class name="qapalluacademey.Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="Nativeappandroid()[pri:0, instance:qapalluacademey.Mavenjava.AppiumTest@5d624da6]" name="Nativeappandroid" duration-ms="0" started-at="2020-10-09T06:04:40Z" finished-at="2020-10-09T06:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Nativeappandroid -->
+        <test-method status="PASS" signature="iosApp()[pri:0, instance:qapalluacademey.Mavenjava.AppiumTest@5d624da6]" name="iosApp" duration-ms="0" started-at="2020-10-09T06:04:40Z" finished-at="2020-10-09T06:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosApp -->
+      </class> <!-- qapalluacademey.Mavenjava.AppiumTest -->
+      <class name="qapalluacademey.Mavenjava.SeleniumTest">
+        <test-method status="PASS" signature="Browserautomation()[pri:0, instance:qapalluacademey.Mavenjava.SeleniumTest@1e67b872]" name="Browserautomation" duration-ms="0" started-at="2020-10-09T06:04:40Z" finished-at="2020-10-09T06:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserautomation -->
+        <test-method status="PASS" signature="elementsui()[pri:0, instance:qapalluacademey.Mavenjava.SeleniumTest@1e67b872]" name="elementsui" duration-ms="0" started-at="2020-10-09T06:04:40Z" finished-at="2020-10-09T06:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsui -->
+      </class> <!-- qapalluacademey.Mavenjava.SeleniumTest -->
+      <class name="qapalluacademey.Mavenjava.ApiTest">
+        <test-method status="PASS" signature="jira()[pri:0, instance:qapalluacademey.Mavenjava.ApiTest@2ef9b8bc]" name="jira" duration-ms="7" started-at="2020-10-09T06:04:40Z" finished-at="2020-10-09T06:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jira -->
+        <test-method status="PASS" signature="twitter()[pri:0, instance:qapalluacademey.Mavenjava.ApiTest@2ef9b8bc]" name="twitter" duration-ms="0" started-at="2020-10-09T06:04:40Z" finished-at="2020-10-09T06:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twitter -->
+      </class> <!-- qapalluacademey.Mavenjava.ApiTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
